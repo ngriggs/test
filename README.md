@@ -1,1 +1,0 @@
-# ngriggs.github.io
