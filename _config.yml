@@ -1,0 +1,3 @@
+remote_theme: "hanuman"
+plugins:
+  - jekyll-remote-theme
