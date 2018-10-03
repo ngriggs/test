@@ -1,16 +1,8 @@
 ---
 layout: default
-title: Example
+title: Data Science Portfolio
 ---
 
-# This is a heading
+# Data science portfolio by Noah Griggs
 
-And here is some *emphasised* and _strong_ text.
-
-  1. Lists are great in [Markdown](https://daringfireball.net/projects/markdown/).
-  2. You just start typing and they appear.
-  3. Your code looks just like the output.
-  4. Nested lists work too:
-    * This one's unordered.
-    * Just like you would when you're hashing out notes.
-    * Very little thinking required.
+This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. Each category highlights a different set of projects
