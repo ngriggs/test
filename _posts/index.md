@@ -1,6 +1,9 @@
 ---
-layout: default
-title: Data Science Portfolio
+layout: post
+title: Media
+date: 2017-11-27 04:00:00
+tags: media test
+author: hanuman
 ---
 
 # Data science portfolio by Noah Griggs
