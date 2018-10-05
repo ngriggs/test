@@ -9,9 +9,9 @@ url: "ngriggs.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
+facebook: noah.griggs.3
 twitter: twitter
-github:  github
+github:  ngriggs
 
 #Additional Pages
 about: about
